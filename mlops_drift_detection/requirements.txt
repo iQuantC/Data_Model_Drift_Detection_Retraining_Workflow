@@ -1,0 +1,4 @@
+scikit-learn 
+pandas 
+alibi-detect 
+apache-airflow==3.0.2
