@@ -1,5 +1,5 @@
 # ML Model Monitoring, Drift Detection, and Automated Retraining Workflows
-Here, we simulate an end-to-end MLOps for model monitoring, drift detection, and automated retraining workflows.
+In this hands-on MLOps project, we will walk you through how to detect data drift in a machine learning model using Alibi Detect and automatically retrain the model using Apache Airflow.
 
 
 ## Components
